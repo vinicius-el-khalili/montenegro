@@ -79,3 +79,4 @@ EXECUTION
     [ ] Build elements and pages
     [ ] Figure out how to create "infinite" scrolling? *thinking emoji*
     [ ] Learn bootstrap
+    [ ] Learn shallow routing
